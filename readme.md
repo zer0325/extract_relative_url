@@ -19,3 +19,9 @@ pattern: `"./xxxx"` or `"/xxx`.
 2.  Extracting the url
 
         $ ./xtrakt < sample.js > urls
+
+## Note
+
+To add more relative urls from other files to the `urls` text file:
+
+`$ ./xtrkt < otherfiles >> urls`
