@@ -7,6 +7,7 @@ int getString(char []);
 int main(int argc, char *argv[])
 {
     char url[MAXLENGTH];
+    printf("debug:\n");
     /* Get the string between the delimeter as a possible URL
      * if the first two character of the string are "./" print the string.
      *	    Do not print if the string is "./"
