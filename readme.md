@@ -7,7 +7,7 @@ extract all those strings, I created this simple tool.
 
 The gist of this tool is to get all the strings inside the quotes (") and then
 perform some post-processing by getting only the strings with the following
-pattern: `"./xxxx"` or `"/xxx`.
+pattern: `"./xxxx"` or `"/xxx"`.
 
 
 ## Usage
