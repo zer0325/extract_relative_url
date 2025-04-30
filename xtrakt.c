@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define MAXLENGTH 12000
+#define MAXLENGTH 40000
 #define DELIMITER '\"'
 
 int getString(char []);
